@@ -1,0 +1,20 @@
+# Generated datasets
+data/generated/
+
+# Local logs
+logs/
+
+#Environment variables
+.env
+
+
+# virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+
